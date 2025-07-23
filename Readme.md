@@ -2,7 +2,7 @@
 
 Moody Player is an innovative web application that **enhances your music listening experience** by detecting your facial expressions in real-time and recommending songs that match your current mood.
 
-![Moody Player Screenshot](https://ibb.co/JjpgXR2t)
+![Moody Player Screenshot](https://i.postimg.cc/DZ5ZxHCg/Screenshot-2025-07-23-112203.png)
 
 ---
 
